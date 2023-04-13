@@ -1,12 +1,12 @@
-.img{
-position: absolute;
-width: 261px;
-height: 271px;
-left: 47px;
-top: 9px;
+.img{position: absolute;
+width: 239px;
+height: 239px;
+left: 64px;
+top: 10px;
 
 background: url(logo.jpg);
-border-radius: 130.5px;}
+border-radius: 275px;}
+
 .inicio{
 position: absolute;
 width: 185px;
