@@ -1,11 +1,15 @@
-.img{position: absolute;
+
+header img{
+position: absolute;
 width: 239px;
 height: 239px;
 left: 64px;
 top: 10px;
 
 background: url(logo.jpg);
-border-radius: 275px;}
+border-radius: 130.5px;
+border-radius: 275px;
+}
 
 .inicio{
 position: absolute;
@@ -13,39 +17,136 @@ width: 185px;
 height: 39px;
 left: 438px;
 top: 66px;
-
 font-family: 'Jockey One';
 font-style: normal;
 font-weight: 400;
 font-size: 36px;
 line-height: 50px;
-
-color: #000000;}
-.galeria{position: absolute;
+color: #000000;
+}
+.galeria{
+position: absolute;
 width: 94px;
 height: 50px;
 left: 720px;
 top: 66px;
-
 font-family: 'Jockey One';
 font-style: normal;
 font-weight: 400;
 font-size: 36px;
 line-height: 50px;
-
 color: #000000;
 }
-.contato{position: absolute;
+.contato{
+position: absolute;
 width: 103px;
 height: 50px;
 left: 937px;
 top: 66px;
-
 font-family: 'Jockey One';
 font-style: normal;
 font-weight: 400;
 font-size: 36px;
 line-height: 50px;
+color: #000000;
+}
+
+.corpo h4{
+  position: absolute;
+width: 367px;
+height: 83px;
+left: 642px;
+top: 200px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 94px;
+line-height: 83px;
 
 color: #000000;
 }
+
+.tx1 {
+  position: absolute;
+width: 717px;
+height: 711px;
+left: 190px;
+top: 377px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+
+}
+
+.tx2{
+  position: absolute;
+width: 1349px;
+height: 386px;
+left: 607px;
+top: 546px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+
+color: #000000;
+
+}
+
+.tx3{
+  position: absolute;
+width: 1256px;
+height: 91px;
+left: 220px;
+top: 1022px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+
+color: #000000;
+}
+
+.tx4{
+  position: absolute;
+width: 608px;
+height: 473px;
+left: 200px;
+top: 1187px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+
+color: #000000;
+
+}
+
+footer img {
+  position: absolute;
+  width: 239px;
+  height: 239px;
+  left: 1000px;
+  top: 1300px;
+
+  background: url(zap.jpg);
+  border-radius: 275px;
+}
+ footer p{
+   position: absolute;
+   width: 239px;
+   height: 239px;
+   left: 1300px;
+   top: 1300px;
+   font-size: 44px;
+ }
